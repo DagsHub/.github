@@ -8,7 +8,9 @@
 [![Discord](https://img.shields.io/discord/698874030052212737)](https://discord.com/invite/9gU36Y6)
 <a href="https://twitter.com/TheRealDAGsHub" title="DagsHub on Twitter"><img src="https://img.shields.io/twitter/follow/TheRealDAGsHub.svg?style=social"></a>
 
-The home for Data Science collaboration.
+DagsHub is a web platform based on open source tools, optimized for data science and oriented towards the open source community.
+
+It is a central location where projects can be hosted, discovered, and collaborated on by contributors.
 
 <div>
   <a href="https://dagshub.com/careers">
