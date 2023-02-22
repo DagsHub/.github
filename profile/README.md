@@ -6,7 +6,7 @@
 </div>
 <div align="center">
   
-[![Sign Up](https://img.shields.io/badge/Sign%20Up-5467DE?style=for-the-badge)](https://dagshub.com/careers)
+[![Sign Up](https://img.shields.io/badge/Sign%20Up-5467DE?style=for-the-badge)](https://dagshub.com/user/sign_up)
 [![Explore ML Projects](https://img.shields.io/badge/Explore%20ML%20Projects-103037?style=for-the-badge)](https://dagshub.com/explore/repos)
 [![Docs](https://img.shields.io/badge/Docs-103037?style=for-the-badge)](https://dagshub.com/docs)
 [![Our Story](https://img.shields.io/badge/Our%20Story-103037?style=for-the-badge)](https://dagshub.com/about)
